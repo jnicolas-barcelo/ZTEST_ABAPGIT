@@ -14,6 +14,23 @@
     <item>/.gitlab-ci.yml</item>
     <item>/abaplint.json</item>
     <item>/azure-pipelines.yml</item>
+    <item>/src/zbp_migs4.prog.abap</item>
+    <item>/src/zbp_migs4.prog.xml</item>
+    <item>/src/zbp_migs4.tran.xml</item>
+    <item>/src/zbp_migs4_pai.prog.abap</item>
+    <item>/src/zbp_migs4_pai.prog.xml</item>
+    <item>/src/zbp_migs4_pbo.prog.abap</item>
+    <item>/src/zbp_migs4_pbo.prog.xml</item>
+    <item>/src/zbp_migs4_sub.prog.abap</item>
+    <item>/src/zbp_migs4_sub.prog.xml</item>
+    <item>/src/zbp_migs4_sub1.prog.abap</item>
+    <item>/src/zbp_migs4_sub1.prog.xml</item>
+    <item>/src/zbp_migs4_sub2.prog.abap</item>
+    <item>/src/zbp_migs4_sub2.prog.xml</item>
+    <item>/src/zbp_migs4_sub3.prog.abap</item>
+    <item>/src/zbp_migs4_sub3.prog.xml</item>
+    <item>/src/zbp_migs4_top.prog.abap</item>
+    <item>/src/zbp_migs4_top.prog.xml</item>
    </IGNORE>
   </DATA>
  </asx:values>
